@@ -1,4 +1,4 @@
-const API_URL = 'https://slot-swapper-backend-pxie.onrender.com' || 'http://localhost:5000/api';
+const API_URL = 'https://slot-swapper-backend-pxie.onrender.com/api' || 'http://localhost:5000/api';
 
 export const api = {
   auth: {
